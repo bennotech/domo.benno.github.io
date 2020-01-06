@@ -1,4 +1,4 @@
-# score.github.io
+# domo.benno.github.io
 
 ## Project setup
 ```

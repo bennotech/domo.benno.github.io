@@ -10,10 +10,10 @@ import error from '@/components/error-page'
 import bennoNavbar from '@/components/benno-navbar'
 import bennoFooter from '@/components/benno-footer'
 
+Vue.use(Router)
+
 Vue.component('benno-navbar', bennoNavbar)
 Vue.component('benno-footer', bennoFooter)
-
-Vue.use(Router)
 
 export default new Router({
   mode: 'history',
